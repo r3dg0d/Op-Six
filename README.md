@@ -1,5 +1,5 @@
 # 🔫 Op-Six
-Kernel-level cheat for R6S, Codenamed Op-Six, will get you insta-banned probably lmao. Aimbot, ESP, Unlock-All, and other sussy-bakas.
+Kernel-level cheat for R6S, Codenamed Op-Six, will get you banned after 1-day probably lmao. Aimbot, ESP, Unlock-All, and other sussy-bakas.
 
 # 📘 To-Do:
 - https://www.youtube.com/watch?v=KNGr4m99PTU
